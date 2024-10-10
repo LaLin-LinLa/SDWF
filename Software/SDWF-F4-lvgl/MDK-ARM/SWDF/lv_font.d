@@ -1,0 +1,16 @@
+swdf\lv_font.o: ..\Src\lvgl\src\font\lv_font.c
+swdf\lv_font.o: ..\Src\lvgl\src\font\lv_font.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../lv_conf_internal.h
+swdf\lv_font.o: D:\Apps\Keil5_v5\ARM\ARMCC\Bin\..\include\stdint.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../lv_conf_kconfig.h
+swdf\lv_font.o: ..\Src\lvgl\examples\porting\../../lv_conf.h
+swdf\lv_font.o: D:\Apps\Keil5_v5\ARM\ARMCC\Bin\..\include\stddef.h
+swdf\lv_font.o: D:\Apps\Keil5_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\lv_symbol_def.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../misc/lv_area.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../misc/lv_utils.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../misc/lv_log.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../misc/lv_types.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../misc/lv_assert.h
+swdf\lv_font.o: ..\Src\lvgl\src\font\../misc/lv_mem.h
+swdf\lv_font.o: D:\Apps\Keil5_v5\ARM\ARMCC\Bin\..\include\string.h

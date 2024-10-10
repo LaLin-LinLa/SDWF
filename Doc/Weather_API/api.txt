@@ -1,0 +1,4 @@
+API工具：
+https://api.seniverse.com/v3/weather/daily.json?key=【你的_api_key】&location=beijing&language=zh-Hans&unit=c&start=-1&days=5
+
+https://api.seniverse.com/v3/weather/now.json?key=SdNKYPKFBXlB2LlRo&location=beijing&language=zh-Hans&unit=c
